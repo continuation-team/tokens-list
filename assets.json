@@ -1,0 +1,12 @@
+{
+  "assets": [
+    {
+      "name": "Tether USD",
+      "symbol": "jUSDT",
+      "decimals": 6,
+      "image_url": "https://bridge.ton.org/token/1/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "description": "Tether USD transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xdac17f958d2ee523a2206206994597c13d831ec7.",
+      "master_contract_address": "EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA"
+    }
+  ]
+}
