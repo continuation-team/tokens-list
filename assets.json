@@ -1,5 +1,13 @@
 {
   "assets": [
+	{
+      "name": "Toncoin",
+      "symbol": "TON",
+      "decimals": 9,
+      "image_url": "https://raw.githubusercontent.com/continuation-team/tokens-list/main/icons/ton.png",
+      "description": "Default toncoin.",
+      "master_contract_address": "ton"
+    },
     {
       "name": "Tether USD",
       "symbol": "jUSDT",
