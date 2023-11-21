@@ -12,7 +12,7 @@
       "name": "Tether USD",
       "symbol": "jUSDT",
       "decimals": 6,
-      "image_url": "https://bridge.ton.org/token/1/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+      "image_url": "https://raw.githubusercontent.com/continuation-team/tokens-list/main/icons/usdt.png",
       "description": "Tether USD transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xdac17f958d2ee523a2206206994597c13d831ec7.",
       "master_contract_address": "EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA"
     },
@@ -20,7 +20,7 @@
       "name": "USD Coin",
       "symbol": "jUSDC",
       "decimals": 6,
-      "image_url": "https://bridge.ton.org/token/1/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+      "image_url": "https://raw.githubusercontent.com/continuation-team/tokens-list/main/icons/usdc.png",
       "description": "USD Coin transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.",
       "master_contract_address": "EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728"
     },
@@ -28,7 +28,7 @@
       "name": "Wrapped BTC",
       "symbol": "jWBTC",
       "decimals": 8,
-      "image_url": "https://bridge.ton.org/token/1/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png",
+      "image_url": "https://raw.githubusercontent.com/continuation-team/tokens-list/main/icons/wbtc.png",
       "description": "Wrapped BTC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.",
       "master_contract_address": "EQDcBkGHmC4pTf34x3Gm05XvepO5w60DNxZ-XT4I6-UGG5L5"
     }
